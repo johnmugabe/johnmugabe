@@ -1,6 +1,6 @@
 # Hello, I'm John Mugabe!
 
-[![Website](https://img.shields.io/badge/Website-YourPortfolio-blue?style=flat-square&logo=google-chrome)](https://johnmugabe.mystrikingly.com)
+[![Website](https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=google-chrome)](https://johnmugabe.mystrikingly.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/johnmugabe)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/johnmugabe8)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail)](mailto:jonesmugabe08@gmail.com)
