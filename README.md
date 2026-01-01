@@ -23,8 +23,8 @@
     };
     
     /**
-     * Senior Full-Stack PHP Developer specializing in creating 
-     * robust, user-centered web applications.
+     * Full-Stack PHP Developer specializing in creating 
+     * robust, user-centered web applications using Laravel.
      * 
      * @author John Mugabe
      * @license MIT
