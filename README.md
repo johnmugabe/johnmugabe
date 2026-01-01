@@ -106,7 +106,7 @@
 
         public function hobbyprojects(): iterable
         {
-            yield 'iZambezi CSS => [
+            yield 'iZambezi CSS' => [
                 'website' => 'https://izambezi.vercel.app'
             ];
             
