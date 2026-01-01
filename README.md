@@ -103,6 +103,18 @@
                 ]
             ];
         }
+
+        public function hobbyprojects(): iterable
+        {
+            yield 'iZambezi CSS => [
+                'website' => 'https://izambezi.vercel.app'
+            ];
+            
+            yield 'Systems Developer' => [
+                'company' => '263tickets',
+                'website' => 'https://263tickets.com'
+            ];
+        }
         
         public function getCurrentProjects(): iterable
         {
@@ -111,9 +123,22 @@
                 'features' => ['Microservices', 'Real-time Analytics', 'Payment Integration']
             ];
             
-            yield 'SaaS Application' => [
+            yield '263tickets Internal Applications' => [
                 'stack' => ['Livewire', 'Alpine.js', 'PostgreSQL', 'AWS'],
                 'features' => ['Multi-tenancy', 'API-first', 'Automated Deployment']
+            ];
+        }
+
+        public function otherNotableWorks(): iterable
+        {
+            yield 'Front-End Development => [
+                'company' => 'startupAZ,
+                'website' => 'https://www.suaz.co.uk/'
+            ];
+            
+            yield 'Systems Developer' => [
+                'company' => '263tickets',
+                'website' => 'https://263tickets.com'
             ];
         }
         
