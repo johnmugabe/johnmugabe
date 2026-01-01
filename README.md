@@ -146,6 +146,11 @@
         {
             return true;
         }
+
+        public function isOpenToWork(): bool
+        {
+            return true;
+        }
         
         public function getContactMethods(): array
         {
