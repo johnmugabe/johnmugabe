@@ -12,19 +12,19 @@
 <?php
     declare(strict_types=1);
     
-    namespace App\Developers;
+    namespace App\Resume;
     
     use App\Skills\{
-        BackendTechnologies,
-        FrontendTechnologies,
+        Backend,
+        Frontend,
         DesignExpertise,
-        DevOpsTools,
+        DevOps,
         DevelopmentPrinciples
     };
     
     /**
-     * Full-Stack PHP Developer specializing in creating 
-     * robust, user-centered web applications using Laravel.
+     * Seasoned Full-Stack Developer with 8+ years experience building scallable web applications using
+     * Laravel ecosystem. Passionate about clean code, TDD and exploring nw technologies.
      * 
      * @author John Mugabe
      * @license MIT
@@ -42,9 +42,9 @@
         
         public function __construct(
             private string $name = 'John Mugabe',
-            private string $title = 'Senior Full-Stack PHP Developer',
+            private string $title = 'Full-Stack PHP Developer',
             private Location $location = new Location('Harare, Zimbabwe'),
-            private array $certifications = ['UI/UX Certified', 'Laravel Certified', 'AWS Certified']
+            private array $certifications = ['UI/UX Certified', 'Front-End Development', 'Mobile Development']
         ) {}
         
         public function getTechnicalSkills(): array
@@ -132,13 +132,4 @@
             ];
         }
         
-        public function __toString(): string
-        {
-            return sprintf(
-                "%s - %s\n%s\n\nAvailable for exciting projects and collaborations!",
-                $this->name,
-                $this->title,
-                $this->location
-            );
-        }
     }
