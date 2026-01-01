@@ -131,8 +131,8 @@
 
         public function otherNotableWorks(): iterable
         {
-            yield 'Front-End Development => [
-                'company' => 'startupAZ,
+            yield 'Front-End Development' => [
+                'company' => 'startupAZ',
                 'website' => 'https://www.suaz.co.uk/'
             ];
             
