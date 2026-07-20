@@ -161,16 +161,14 @@ final readonly class AboutMe
     {
         return [
             [
-                'role'    => 'Systems Developer',
-                'company' => '263tickets',
-                'website' => 'https://263tickets.com',
-                'work'    => 'Multi-sided event ticketing platform — marketplace, organiser console, admin control plane, and two mobile apps over a shared API',
-                'stack'   => ['Next.js', 'NestJS', 'TypeScript', 'PostgreSQL', 'Redis', 'Temporal', 'Expo'],
+                'role'    => 'Co-Founder & CTO',
+                'company' => 'Innfuture Technologies',
+                'website' => 'https://www.innfuture.co.zw',
             ],
             [
-                'role'    => 'Front-End Developer',
-                'company' => 'startupAZ',
-                'website' => 'https://www.suaz.co.uk/',
+                'role'    => 'Senior Platform Architect',
+                'company' => '263tickets',
+                'website' => 'https://www.263tickets.co.zw/',
             ],
         ];
     }
