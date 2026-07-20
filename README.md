@@ -14,7 +14,7 @@ declare(strict_types=1);
 /**
  * John Mugabe - Full-Stack Engineer
  *
- * 8+ years shipping production web platforms — from Laravel monoliths to
+ * 9+ years shipping production web platforms — from Laravel monoliths to
  * multi-app TypeScript monorepos. Currently building 263tickets Discover:
  * a multi-sided event ticketing platform for Africa, by Africa — native
  * mobile-money rails, WhatsApp-first ticket delivery, and inventory that
