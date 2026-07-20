@@ -34,7 +34,7 @@ final readonly class AboutMe
         public string $title = 'Full-Stack Engineer · Platform & Product',
         public string $location = 'Harare, Zimbabwe',
         public string $timezone = 'Africa/Harare',
-        public int $yearsOfExperience = 8,
+        public int $yearsOfExperience = 11,
         public string $currentFocus = 'Payments integrity, inventory at scale, and AI-augmented delivery',
         public string $philosophy = 'Clean code, tested behaviour, delighted users',
         public bool $openToWork = true,
