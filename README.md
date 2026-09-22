@@ -60,7 +60,7 @@ final readonly class AboutMe
             'linkedin'   => 'linkedin.com/in/johnmugabe',
             'github'     => 'github.com/johnmugabe',
             'openSource' => 'github.com/67even',
-            'portfolio'  => 'johnmugabe.mystrikingly.com',
+            'website'    => 'johnmugabe.online',
         ];
     }
 
