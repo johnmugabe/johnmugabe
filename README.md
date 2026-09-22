@@ -123,7 +123,7 @@ final readonly class AboutMe
             'ecocash-instant-payment-api' => 'EcoCash Instant Payment (EIP) guide, tested clients in 5 languages, and a Claude skill',
             'paynow-integration-skill'    => 'Paynow checkout integration guide and Claude skill',
             'paynow-billpay-skill'        => 'Paynow bill payments guide and Claude skill',
-            'InnBucks Merchant API Developer Guide'  => 'Integrate InnBucks: generate a payment code, show it with its QR code and deep link, confirm payment and go live.',
+            'innbucks-merchant-api-integration'  => 'Integrate InnBucks: generate a payment code, show it with its QR code and deep link, confirm payment and go live.',
         ];
     }
 
@@ -236,11 +236,11 @@ final readonly class AboutMe
     public function education(): array
     {
         return [
-            'Information Technology (HND)',
-            'UI/UX Certified',
-            'Full-Stack Web Development Certified',
-            'X-Platform Mobile Development Certified',
-            'Google Skillshop Certified',
+            'Information Technology',
+            'UI UX Design',
+            'Full-Stack Web Development',
+            'X-Platform Mobile Development',
+            'Google Skillshop',
         ];
     }
 
@@ -255,9 +255,9 @@ final readonly class AboutMe
                 'stack'       => ['CSS', 'SCSS', 'JavaScript'],
             ],
             [
-                'name'        => 'GasFlow',
-                'description' => 'Point-of-sale SaaS for LPG retail: stock, cylinders and cash reconciliation',
-                'stack'       => ['Laravel', 'Livewire', 'PostgreSQL'],
+                'name'        => 'GuideFlow',
+                'description' => 'GuideFlow is a modular, framework-agnostic product tour library with a built-in finite state machine engine, AI-powered tour generation,                                     analytics, and A/B testing.',
+                'stack'       => ['React', 'Vue', 'Svelte', 'JavaScript'],
             ],
         ];
     }
