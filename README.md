@@ -1,14 +1,14 @@
 <h1 align="center">John Mugabe</h1>
 
 <p align="center">
-  <b>Full-Stack Engineer · Platform &amp; Product</b> · Harare, Zimbabwe<br>
+  <b>Full-Stack Developer · Platform &amp; Product</b> · Harare, Zimbabwe<br>
   Building event ticketing and payment infrastructure for Africa, by Africa.
 </p>
 
 <p align="center">
   <a href="mailto:jonesmugabe08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jonesmugabe08%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/johnmugabe"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-johnmugabe-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://johnmugabe.online"><img alt="Website" src="https://img.shields.io/badge/Portfolio-mystrikingly-111111?logo=googlechrome&logoColor=white"></a>
+  <a href="https://johnmugabe.online"><img alt="Website" src="https://img.shields.io/badge/Website-johnmugabe.online-111111?logo=googlechrome&logoColor=white"></a>
   <a href="https://github.com/67even"><img alt="67even" src="https://img.shields.io/badge/Open%20source-67even-FF3131?logo=github&logoColor=white"></a>
   <img alt="Open to work" src="https://img.shields.io/badge/Open%20to-work%20%26%20collaboration-2EA043">
 </p>
