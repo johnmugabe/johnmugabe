@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:jonesmugabe08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jonesmugabe08%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/johnmugabe"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-johnmugabe-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://johnmugabe.mystrikingly.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mystrikingly-111111?logo=googlechrome&logoColor=white"></a>
+  <a href="https://johnmugabe.online"><img alt="Website" src="https://img.shields.io/badge/Portfolio-mystrikingly-111111?logo=googlechrome&logoColor=white"></a>
   <a href="https://github.com/67even"><img alt="67even" src="https://img.shields.io/badge/Open%20source-67even-FF3131?logo=github&logoColor=white"></a>
   <img alt="Open to work" src="https://img.shields.io/badge/Open%20to-work%20%26%20collaboration-2EA043">
 </p>
@@ -21,7 +21,7 @@
 declare(strict_types=1);
 
 /**
- * John Mugabe - Full-Stack Engineer
+ * John Mugabe - Full-Stack Developer
  *
  * 11 years shipping production web platforms, from Laravel monoliths to
  * multi-app TypeScript monorepos. Currently building 263tickets Discover:
@@ -35,13 +35,13 @@ declare(strict_types=1);
  * @author  John Mugabe <jonesmugabe08@gmail.com>
  * @see     https://github.com/johnmugabe
  * @see     https://github.com/67even
- * @see     https://johnmugabe.mystrikingly.com
+ * @see     https://johnmugabe.online
  */
 final readonly class AboutMe
 {
     public function __construct(
         public string $name = 'John Mugabe',
-        public string $title = 'Full-Stack Engineer · Platform & Product',
+        public string $title = 'Full-Stack Developer · Platform & Product',
         public string $location = 'Harare, Zimbabwe',
         public string $timezone = 'Africa/Harare',
         public int $yearsOfExperience = 11,
@@ -69,7 +69,7 @@ final readonly class AboutMe
     {
         return [
             ['role' => 'Co-Founder & CTO',          'company' => 'Innfuture Technologies', 'website' => 'https://www.innfuture.co.zw'],
-            ['role' => 'Senior Platform Architect', 'company' => '263tickets',             'website' => 'https://www.263tickets.co.zw'],
+            ['role' => 'Lead Platform Architect', 'company' => '263tickets',             'website' => 'https://www.263tickets.co.zw'],
         ];
     }
 
@@ -122,6 +122,7 @@ final readonly class AboutMe
             'ecocash-instant-payment-api' => 'EcoCash Instant Payment (EIP) guide, tested clients in 5 languages, and a Claude skill',
             'paynow-integration-skill'    => 'Paynow checkout integration guide and Claude skill',
             'paynow-billpay-skill'        => 'Paynow bill payments guide and Claude skill',
+            'InnBucks Merchant API Developer Guide'  => 'Integrate InnBucks: generate a payment code, show it with its QR code and deep link, confirm payment and go live.',
         ];
     }
 
@@ -234,10 +235,11 @@ final readonly class AboutMe
     public function education(): array
     {
         return [
-            'Postgraduate Diploma, ZITA (2026)',
+            'Information Technology (HND)',
             'UI/UX Certified',
-            'Front-End Development',
-            'Mobile Development',
+            'Full-Stack Web Development Certified',
+            'X-Platform Mobile Development Certified',
+            'Google Skillshop Certified',
         ];
     }
 
@@ -274,10 +276,10 @@ Developer guides for Zimbabwean payment rails, each with tested code, a document
 | [**ecocash-instant-payment-api**](https://github.com/67even/ecocash-instant-payment-api) · [docs](https://67even.github.io/ecocash-instant-payment-api/) | EcoCash Instant Payment (EIP) API: sandbox to go-live, clients in PHP, Node.js, Python, Java and C#, and a Claude skill |
 | [**paynow-integration-skill**](https://github.com/67even/paynow-integration-skill) · [docs](https://67even.github.io/paynow-integration-skill/) | Paynow checkout integration guide and Claude skill |
 | [**paynow-billpay-skill**](https://github.com/67even/paynow-billpay-skill) · [docs](https://67even.github.io/paynow-billpay-skill/) | Paynow bill payments guide and Claude skill |
+| [**innbucks-merchant-api-integration**](https://github.com/67even/innbucks-merchant-api-integration) · [docs](https://67even.github.io/innbucks-merchant-api-integration/) | InnBucks merchant API developer guide and Claude skill |
 
 ### Side projects
 
 - [**iZambezi CSS**](https://izambezi.vercel.app): a custom CSS framework for rapid UI development
-- **GasFlow**: point-of-sale SaaS for LPG retail (stock, cylinders and cash reconciliation)
 
 <p align="center"><sub>Harare, Zimbabwe · Africa/Harare (UTC+2) · <a href="mailto:jonesmugabe08@gmail.com">jonesmugabe08@gmail.com</a></sub></p>
