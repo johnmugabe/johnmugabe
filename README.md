@@ -35,6 +35,7 @@ declare(strict_types=1);
  * @author  John Mugabe <jonesmugabe08@gmail.com>
  * @see     https://github.com/johnmugabe
  * @see     https://github.com/67even
+ * @see     https://github.com/RealNerdZW
  * @see     https://johnmugabe.online
  */
 final readonly class AboutMe
