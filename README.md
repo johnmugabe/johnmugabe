@@ -58,7 +58,7 @@ final readonly class AboutMe
     {
         return [
             'email'      => 'jonesmugabe08@gmail.com',
-            'linkedin'   => 'linkedin.com/in/johnmugabe',
+            'linkedin'   => 'linkedin.com/in/johnmugabejnr',
             'github'     => 'github.com/johnmugabe',
             'openSource' => 'github.com/67even',
             'website'    => 'johnmugabe.online',
